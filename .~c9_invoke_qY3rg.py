@@ -1,1 +1,0 @@
-print('Test doang ini mah!!!')
